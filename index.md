@@ -51,4 +51,5 @@ ii)	Introduced a method to quickly adjust the composition of a completely miscib
 i)	Learnt the development and applications of novel organic light-emitting materials based on quinolineamine-based boron fluorine core;
 ii)	Designed and synthesized series of aryl-substituted BF2 complexes via Suzuki coupling reaction.
 
-
+# SprinBoot -Vue-demo1
+![Photograph](https://github.com/LUCKYGEORGE666/mywebsite.github.io/blob/gh-pages/DSC_6446.JPG)
