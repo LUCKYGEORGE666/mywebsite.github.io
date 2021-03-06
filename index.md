@@ -1,14 +1,14 @@
 ## This is Hongxu George CHEN!
 
 ### Educations
-**2018～present**   Undergrad.   Agricultural Built Environment and Energy Engineering in China Agricultural University, Beijing, China;
-**2019～present**   Double major Undergrad.   Economics in Peking University, Beijing, China.
+**2018～present**   Undergrad.   Agricultural Built Environment and Energy Engineering in China Agricultural University, Beijing, China;  
+**2019～present**   Double major Undergrad.   Economics in Peking University, Beijing, China.  
 
 
 ### Research experiences
-**03/2021 – present**      Prof. **Zhidan Liu’s** research group, E2E, China Agricultural Univ., China. 
-                           With joint advice from Prof. **Yuanhui Zhang** (UIUC, USA)
-Project (**main creator and team leader**): Deep insights of activated magnetic hydrochar synthesized via one-pot and two-stage processes for arsenic removal 
+**03/2021 – present**      Prof. **Zhidan Liu’s** research group, E2E, China Agricultural Univ., China.   
+                           With joint advice from Prof. **Yuanhui Zhang** (UIUC, USA)  
+Project (**main creator and team leader**): Deep insights of activated magnetic hydrochar synthesized via one-pot and two-stage processes for arsenic removal   
 
 **11/2020 – 02/2021**      Prof. **Zhidan Liu’s** research group, E2E, China Agricultural Univ., China.
 Project (**main creator and team leader**): Arsenic removal via a novel magnetic hydrochar from livestock manure: fabrication, characterization and directed activation
